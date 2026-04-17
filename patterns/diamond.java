@@ -1,35 +1,37 @@
 package patterns;
-
 public class diamond {
+    
 
     public static void main (String args[]){
 
 
-        for(int i=1; i<=8; i=i+2){
+        for(int i=1; i<=4; i++){
 
-            for(int j=1; j<=8-i; j++){
-               System.out.print("-");
-            }
-            for(int j=1; j<=i; j++){
-               System.out.print("* ");
-            }
-
-
-            System.out.println("");
-        }
-
-        for(int i=7; i>=0 ; i=i-2){
-
-            for(int j=1; j<=8-i; j++){
+            for(int j=1; j<=4-i; j++){
                System.out.print(" ");
             }
-            for(int j=1; j<=i; j++){
-               System.out.print("* ");
+            for(int j=1; j<=(2*i)-1; j++){
+               System.out.print("*");
             }
 
 
             System.out.println("");
         }
+
+        for(int i=4; i>=1; i--){
+
+            for(int j=1; j<=4-i; j++){
+               System.out.print(" ");
+            }
+            for(int j=1; j<=(2*i)-1; j++){
+               System.out.print("*");
+            }
+
+
+            System.out.println("");
+        }
+
     }
     
+
 }
