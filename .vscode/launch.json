@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "rainwater",
+            "request": "launch",
+            "mainClass": "Arrays.rainwater",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "functions.palindrome",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Average",
+            "request": "launch",
+            "mainClass": "functions.Average",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Arrays.Practice",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "kadanes_algo",
+            "request": "launch",
+            "mainClass": "Arrays.kadanes_algo",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "prefixsum",
+            "request": "launch",
+            "mainClass": "Arrays.prefixsum",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
             "name": "Order",
             "request": "launch",
             "mainClass": "Arrays.Order",

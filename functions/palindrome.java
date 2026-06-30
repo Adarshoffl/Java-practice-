@@ -26,7 +26,7 @@ public class palindrome {
     }
 
     public static void main(String[] args) {
-        isPalindrome(121);
+        isPalindrome(123);
     }
     
 }
