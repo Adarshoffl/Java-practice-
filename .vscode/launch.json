@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "selectionsort",
+            "request": "launch",
+            "mainClass": "Sorting.selectionsort",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "bubblesort",
+            "request": "launch",
+            "mainClass": "Sorting.bubblesort",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
             "name": "rainwater",
             "request": "launch",
             "mainClass": "Arrays.rainwater",
