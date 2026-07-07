@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "spiral",
+            "request": "launch",
+            "mainClass": "TwoDArrays.spiral",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "basic",
+            "request": "launch",
+            "mainClass": "TwoDArrays.basic",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
             "name": "selectionsort",
             "request": "launch",
             "mainClass": "Sorting.selectionsort",

@@ -2,7 +2,7 @@ package TwoDArrays;
 
 import java.util.Scanner;
 
-public class metrix_X {
+public class matrix_X {
 
     public static void main(String arg[]) {
 
