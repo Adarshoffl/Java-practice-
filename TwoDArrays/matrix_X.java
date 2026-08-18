@@ -34,7 +34,7 @@ public class matrix_X {
                 }
             }
         }
-       
+        sc.close();
 
     }
 

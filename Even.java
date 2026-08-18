@@ -29,6 +29,8 @@
         int n = sc.nextInt();
 
         evennum(n);
+
+        sc.close();
     }
 
 }

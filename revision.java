@@ -106,6 +106,8 @@ public class revision{
         }
         System.out.println("the factorial of n is: "+fact);
 
+         sc.close();
+
     }
 }
 

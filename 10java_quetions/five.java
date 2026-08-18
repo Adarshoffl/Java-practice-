@@ -19,5 +19,6 @@ public class five {
         int a =sc.nextInt();
 
         eligible(a);
+        sc.close();
     }
 }

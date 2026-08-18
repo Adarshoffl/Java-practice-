@@ -23,5 +23,6 @@ public class nine {
         int b = sc.nextInt();
 
         GDC(a, b);
+        sc.close();
     }
 }

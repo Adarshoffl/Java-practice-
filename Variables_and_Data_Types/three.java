@@ -14,6 +14,7 @@ public class three {
         double total=pencil+pen+eraser;
 
         System.out.println(total*per/100);
+         AD.close();
     }
     
 }

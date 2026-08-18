@@ -10,5 +10,7 @@ public class two {
 
  float Area= side*side;
  System.out.println(Area);
+
+  AD.close();
 }
 }

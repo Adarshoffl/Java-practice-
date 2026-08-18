@@ -28,5 +28,7 @@ public class seven {
         System.out.println("negative= "+n);
         System.out.println("zero's= "+z);
 
+        sc.close();
+
     }
 }

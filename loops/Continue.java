@@ -4,7 +4,7 @@ public class Continue {
 
     public static void main(String args[]){
         Scanner sc= new Scanner(System.in);
-
+       
         do{
             System.out.println("Enter the number:");
             int n=sc.nextInt();
@@ -14,6 +14,7 @@ public class Continue {
             System.out.println(n);
 
         }while(true);
+        
     }
     
 }

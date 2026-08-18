@@ -15,5 +15,6 @@ public class one {
           float avg=sum/3;
 
           System.out.println(avg);
+           AD.close();
     }
 }

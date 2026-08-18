@@ -22,6 +22,8 @@ public class SumofDigit {
 
             int result= digitsum(1234);
             System.out.println(result);
+
+        
         }
     }
     

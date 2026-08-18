@@ -17,6 +17,8 @@ public class Breaks {
             
 
         }while(true);
+
+        AD.close();
     }
     
 }

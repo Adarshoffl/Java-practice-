@@ -14,6 +14,7 @@ public class four {
         int a =sc.nextInt();
 
         radius(a);
+        sc.close();
     }
     
 }

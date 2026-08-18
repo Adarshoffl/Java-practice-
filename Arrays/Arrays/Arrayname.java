@@ -16,7 +16,9 @@ public class Arrayname {
 
         for(int i=0; i<name.length; i++){
             System.out.println("name"+(i+1)+" "+"is= "+ name[i]);
+
         }
+        sc.close();
     }
     
 }

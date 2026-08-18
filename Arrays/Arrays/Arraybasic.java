@@ -21,5 +21,7 @@ public class Arraybasic {
         int Avg= (marks[0]+marks[1]+marks[2])/3;
 
         System.out.println("percentage = "+Avg+"%");
+
+        sc.close();
     }
 }

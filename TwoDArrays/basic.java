@@ -44,6 +44,7 @@ public class basic {
         }
 
         twoDarray(Matrix);
+         sc.close();
     }
 
 }

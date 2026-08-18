@@ -15,6 +15,7 @@ public class Table {
         int n = sc.nextInt();
 
         table(n);
+         sc.close();
     }
 
 }

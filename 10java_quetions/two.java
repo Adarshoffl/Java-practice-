@@ -24,5 +24,7 @@ public class two {
         int n = sc.nextInt();
 
         Oddnum(n);
+
+        sc.close();
     }
 }

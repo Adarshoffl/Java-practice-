@@ -17,7 +17,7 @@ public class leafyear {
         }else{
              System.out.println(year+ " is leaf year");
         }
-
+      sc.close();
     }
     
 }

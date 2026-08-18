@@ -17,5 +17,7 @@ public class three {
         int b = sc.nextInt();
 
         greaternum(a, b);
+
+        sc.close();
     }
 }

@@ -18,6 +18,8 @@ public class ten {
            a=b;
            b=c;
 
+           sc.close();
+
         }
 
     }

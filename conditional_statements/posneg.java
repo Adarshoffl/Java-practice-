@@ -15,6 +15,7 @@ public class posneg{
                         System.out.println( "positive");
 
         }
+        AD.close();
 
     }
     

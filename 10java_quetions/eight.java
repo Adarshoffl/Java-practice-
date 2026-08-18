@@ -16,5 +16,6 @@ public class eight {
         int b =sc.nextInt();
 
         Power(a, b);
+        sc.close();
     }
 }

@@ -1,4 +1,4 @@
-package Arrays;
+
 
 import java.util.Scanner;
 
@@ -7,5 +7,7 @@ public class Practice {
         Scanner sc = new Scanner(System.in);
         String name = sc.nextLine();
         System.out.printf("Hello %s", name);
+
+        sc.close();
     }    
 }

@@ -21,5 +21,7 @@ public class functions {
         int n = sc.nextInt();
 
         FactorialNum(n);
+
+        sc.close();
     }
 }

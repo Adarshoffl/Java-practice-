@@ -1,4 +1,4 @@
-package Arrays;
+
 import java.util.Scanner;
 
 public class MinMax {
@@ -32,6 +32,7 @@ public class MinMax {
 
         System.out.println("Max in array= "+max);
         System.out.println("Min in array= "+min);
+        sc.close();
 
     }
     

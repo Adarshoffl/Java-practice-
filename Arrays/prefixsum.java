@@ -1,4 +1,3 @@
-package Arrays;
 
 public class prefixsum {
 
@@ -7,16 +6,14 @@ public class prefixsum {
         int max = Integer.MIN_VALUE;
         int min = Integer.MAX_VALUE;
         int sum = 0;
-        int prefix[]= new int[numbers.length];
+        // int prefix[]= new int[numbers.length];
         for (int i = 0; i < numbers.length; i++) {
 
-            int start = i;
-
+            // int start = i;
+            sum=0;
             for (int j = i; j < numbers.length; j++) {
-                int end = j;
-
-                sum = 0;
-               
+                // int end = j;
+               sum = sum + numbers[j];
                 System.out.println(" = " + sum);
                 if (sum > max) {
                     max = sum;

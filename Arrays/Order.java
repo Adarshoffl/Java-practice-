@@ -1,4 +1,4 @@
-package Arrays;
+
 
 import java.util.Scanner;
 
@@ -31,6 +31,8 @@ public class Order {
         } else {
             System.out.println("The array is not sorted in ascending order");
         }
+
+        sc.close();
 
     }
 }

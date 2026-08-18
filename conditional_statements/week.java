@@ -41,6 +41,8 @@ public class week {
         default:
             break;
      }
+
+     sc.close();
         
     }
     
